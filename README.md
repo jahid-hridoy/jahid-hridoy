@@ -2,7 +2,11 @@
 
 🎓 A Computer Science and Engineering graduate from Bangladesh  
 💻 Junior Software Engineer at [TechnoNext Software Limited](https://technonext.com)  
-🏆 Competitive Programmer | Problem Solver | Aspiring .NET Developer  
+🏆 Competitive Programmer | Problem Solver | Aspiring .NET Developer
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-Competitive_Programming-orange?style=for-the-badge)
 
 ---
 
@@ -26,6 +30,16 @@ Now, I’m applying those problem-solving skills in software development, workin
 - **Tools**: Git, GitHub, Visual Studio, Postman
 - **Other**: RESTful Services, Clean Code Practices, OOP
 
+---
+
+## 🔥 Featured Projects
+
+- [🔗 Inventory Management System](https://github.com/jahid-hridoy/InventoryManagementSystem)  
+  A web-based inventory tracking system built with ASP.NET Core and SQL Server.
+
+- [🔗 Registration Form with Email Notification](https://github.com/jahid-hridoy/RegistrationFormProject)  
+  A simple ASP.NET Core form that sends automated email notifications upon user registration.
+  
 ---
 
 ## 📈 GitHub Stats
